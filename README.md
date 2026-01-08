@@ -69,10 +69,10 @@ Outputs:
 
 ## Reprojection Overlays (Red=Clicked, Green=Projected)
 
-![Cam1 overlay](assets/overlays/cam1_overlay.png)
-![Cam2 overlay](assets/overlays/cam2_overlay.png)
-![Cam3 overlay](assets/overlays/cam3_overlay.png)
-![Cam4 overlay](assets/overlays/cam4_overlay.png)
+![Cam1 overlay](results/cam1_overlay.png)
+![Cam2 overlay](results/cam2_overlay.png)
+![Cam3 overlay](results/cam3_overlay.png)
+![Cam4 overlay](results/cam4_overlay.png)
 
 ### Step 2 — Project full court lines on the video
 ```bash
