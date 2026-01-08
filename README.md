@@ -104,5 +104,5 @@ Outputs:
 
 Install:
 ```bash
-pip install opencv-python numpy
+pip install requirements.txt
 ```
