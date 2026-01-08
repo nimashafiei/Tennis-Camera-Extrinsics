@@ -75,6 +75,8 @@ python overlay_court_lines_undistort.py
 Outputs:
 - `results/cam1_court_overlay_UNDIST.mp4 ... results/cam4_court_overlay_UNDIST.mp4`
 
+**Cam1 overlay video:** [https://user-images.githubusercontent.com/....../video.mp4](https://github.com/nimashafiei/Tennis-Camera-Extrinsics/blob/main/results/cam1_court_overlay_UNDIST.gif)
+
 ---
 
 ## 6) Notes
