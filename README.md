@@ -67,6 +67,13 @@ Outputs:
 - `results/extrinsics_all.json`
 - `results/cam1_overlay.png ... results/cam4_overlay.png`
 
+## Reprojection Overlays (Red=Clicked, Green=Projected)
+
+![Cam1 overlay](assets/overlays/cam1_overlay.png)
+![Cam2 overlay](assets/overlays/cam2_overlay.png)
+![Cam3 overlay](assets/overlays/cam3_overlay.png)
+![Cam4 overlay](assets/overlays/cam4_overlay.png)
+
 ### Step 2 — Project full court lines on the video
 ```bash
 python overlay_court_lines_undistort.py
