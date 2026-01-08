@@ -77,7 +77,7 @@ Outputs:
 
 ---
 
-## 7) Notes
+## 6) Notes
 
 - The court is modeled as a **planar surface (Z=0)**. Planar pose estimation can have mirror ambiguity, so IPPE may return multiple candidates.
 - Final pose selection is based on:
@@ -87,7 +87,7 @@ Outputs:
 
 ---
 
-## 8) Requirements
+## 7) Requirements
 
 - Python 3.x
 - OpenCV
